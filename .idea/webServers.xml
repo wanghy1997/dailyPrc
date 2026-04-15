@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="42f4ca5b-a104-4cca-ac01-685acf9869bf" name="qdy_why_LLM">
+        <fileTransfer rootFolder="/Default" accessType="SFTP" host="ssh-0d44cb642ff46b9b1693c39dd5714025.czkjgwmvwmju@direct.virtaicloud.com" port="30022" sshConfigId="25ebed87-33e8-415b-99ca-6213b3d9827c" sshConfig="qdy_LLM">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
